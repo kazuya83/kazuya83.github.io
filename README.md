@@ -1,9 +1,9 @@
-# prin-hannkouki.com
+# kazuya83.github.io
 
-ゲーム一覧のトップページです（https://prin-hannkouki.com/）。
+ゲーム一覧のトップページです（https://kazuya83.github.io/）。
 
-各ゲームは別リポジトリで作り、GitHub Pages をオンにすると `https://prin-hannkouki.com/リポジトリ名/` で公開されます。
+`prin-hannkouki.com` は [prin-hannkouki-site](https://github.com/kazuya83/prin-hannkouki-site) に移しました。
 
-- [ミライすごろく](https://prin-hannkouki.com/mirai-sugoroku/) — kazuya83/mirai-sugoroku
+各ゲームは別リポジトリで作り、GitHub Pages をオンにすると `https://kazuya83.github.io/リポジトリ名/` で公開されます。
 
 ゲームを増やしたら `index.html` にカードを1つ追加してください。
